@@ -1,0 +1,1 @@
+{"asset":{"generator":"Godot Engine v4.4.stable.official@4c311cbee68c0b66ff8ebb8b0defdd9979dd2a41","version":"2.0"},"extensionsUsed":["GODOT_single_root"],"nodes":[{"children":[1],"name":"MainMenu"},{"children":[2],"name":"MarginContainer"},{"children":[3,4,5],"name":"VBoxContainer"},{"name":"Play"},{"name":"Options"},{"name":"Quit"}],"scene":0,"scenes":[{"nodes":[0]}]}
